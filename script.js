@@ -1,12 +1,12 @@
 const tracks = [
     { 
         name: 'Stay High', 
-        src: "songs/stayhigh.mp3",
+        src: "stayhigh.mp3",
         artist: 'Juice WRLD'
     },
     { 
         name: 'Someday', 
-        src: "songs/someday.mp3",
+        src: "someday.mp3",
         artist: 'OneRepublic'
     }
 ];
